@@ -65,6 +65,8 @@ Continued using the jupyter notebook to publish the pipeline I had created so it
 
 **Published Pipeline**
 ![](./screenshots/published_pipeline_endpoint.png)
+**Published Pipeline Details**
+![](./screenshots/pipeline_endpoint_details.png)
 ## Step 3: Use Published pipeline
 
 Used the published pipeline to create another automl experiment
